@@ -13,3 +13,8 @@
 
 **Pause**
 1. [Optiver - Trading at the Close](https://www.kaggle.com/competitions/optiver-trading-at-the-close/overview) - Might have to change python config. Unable to import optiver2023.
+
+
+## Notebooks
+
+- [Permutation importance for feature selection part1](https://www.kaggle.com/code/corochann/permutation-importance-for-feature-selection-part1)
